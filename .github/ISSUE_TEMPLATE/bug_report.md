@@ -9,7 +9,12 @@ assignees: ""
 ### Describe the bug
 
 <!-- A clear and concise description of what the bug is. If available, include
-the full error message inside the code block (surrounded by ```). -->
+the command that was executed and the full error message inside the code block
+below. -->
+
+```
+<Error message>
+```
 
 ### Bug on which cluster?
 
@@ -24,9 +29,9 @@ include the full path of which file is causing the error.  -->
 
 #### Related software
 
-<!-- Which related software is causing the error? For example, which python,
-gcc, icc, gfort, ifort, make, cmake, etc. version are you using? Organize them
-in a list if available. -->
+<!-- Which version of related software is causing the error? Please provide the
+full versions of them. E.g., Python 3.8.12. Organize them in a list
+if available. -->
 
 ### Additional context
 
